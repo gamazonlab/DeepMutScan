@@ -2,7 +2,7 @@
 
 Bo Wang & Eric R. Gamazon  
 
-## Dependencies
+### Dependencies
 ```
 
 MASS==7.3-47
