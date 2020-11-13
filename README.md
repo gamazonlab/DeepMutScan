@@ -8,3 +8,6 @@ Bo Wang & Eric R. Gamazon
 MASS==7.3-47
 LSD==4.1-0
 colorRamps==2.3
+ggplot2==3.3.1
+pheatmap==1.0.12
+RColorBrewer==1.1-2
