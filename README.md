@@ -11,3 +11,4 @@ colorRamps==2.3
 ggplot2==3.3.1
 pheatmap==1.0.12
 RColorBrewer==1.1-2
+igraph==1.1.2
