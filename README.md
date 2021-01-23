@@ -1,10 +1,9 @@
 ## DeepMutScan [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gamazonlab/DeepMutScan/blob/master/LICENSE)
 
-Bo Wang & Eric R. Gamazon  
-
 ## Reference
 
-Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2
+Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2  
+Bo Wang & Eric R. Gamazon
 
 ## Abstract
 
