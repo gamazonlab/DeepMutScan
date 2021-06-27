@@ -6,7 +6,7 @@ In this repo, we provide source data, trained models and NN-derived phenotype ma
 Source inputs are curated and feed into a customized neural network engine ([nn4dms](https://github.com/gitter-lab/nn4dms), [paper](https://www.biorxiv.org/content/10.1101/2020.10.25.353946v2)). Four architectures are wrapped in the engine including: CNN-2D, GCN-AVE([pipgcn](https://github.com/fouticus/pipgcn), [paper](https://papers.nips.cc/paper/2017/hash/f507783927f2ec2737ba40afbd17efb5-Abstract.html)), FCN and LR.
 
 #### Machine Learning
-A joint Random Forest Regression model has been implemented to evaluate feature importance of the convolutional neural network derived (i.e., estimated, mutation-mediated) antibody-escape phenotype for each of the 10 Abs in predicting binding affinity towards the ACE2 receptor. Best model is saved after grid search. 
+A joint Random Forest Regression model has been implemented to evaluate feature importance of the convolutional neural network derived (i.e., estimated, mutation-mediated) antibody-escape phenotype for each of the 10 Abs in predicting binding affinity towards the ACE2 receptor. Optimized parameters are achieved after grid search. 
 
 
 
@@ -16,7 +16,6 @@ A joint Random Forest Regression model has been implemented to evaluate feature 
 gast=0.2.2
 python=3.6.12
 matplotlib=3.3.1
-conda-forge::shortuuid=1.0.1
 numpy=1.16.4
 conda-forge::jupyterlab=2.2.8
 pyyaml=5.3.1
