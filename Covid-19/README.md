@@ -16,7 +16,6 @@ A joint Random Forest Regression model has been implemented to evaluate feature 
 gast=0.2.2
 python=3.6.12
 matplotlib=3.3.1
-conda-forge::shortuuid=1.0.1
 numpy=1.16.4
 conda-forge::jupyterlab=2.2.8
 pyyaml=5.3.1
