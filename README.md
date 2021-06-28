@@ -4,3 +4,6 @@ Biochemical phenotypes are major indexes for protein structure and function char
 
 ### Reference
 1.  [Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2021.01.28.428521v3). Bo Wang & Eric R. Gamazon*
+
+### Contact
+Eric R. Gamazon <ericgamazon@gmail.com>
