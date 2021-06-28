@@ -1,12 +1,12 @@
-## Supplementaries for Publication
+## Supplementary Files and Resources
 
-In this repo, we provide source data, trained models and NN-derived phenotype map suppliment to the [Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.](https://www.biorxiv.org/content/10.1101/2021.01.28.428521v3): Bo Wang & Eric R. Gamazon*. 
+In this repo, we provide source data, trained models, and NN-derived phenotype map as a supplement to the paper [Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.](https://www.biorxiv.org/content/10.1101/2021.01.28.428521v3): Bo Wang & Eric R. Gamazon*. 
 
 #### Neural Networks
-Source inputs are curated and feed into a customized neural network engine ([nn4dms](https://github.com/gitter-lab/nn4dms), [paper](https://www.biorxiv.org/content/10.1101/2020.10.25.353946v2)). Four architectures are wrapped in the engine including: CNN-2D, GCN-AVE([pipgcn](https://github.com/fouticus/pipgcn), [paper](https://papers.nips.cc/paper/2017/hash/f507783927f2ec2737ba40afbd17efb5-Abstract.html)), FCN and LR.
+Source inputs are curated and fed into a customized neural network engine ([nn4dms](https://github.com/gitter-lab/nn4dms), [paper](https://www.biorxiv.org/content/10.1101/2020.10.25.353946v2)). Four architectures are implemented in the engine including: CNN-2D, GCN-AVE([pipgcn](https://github.com/fouticus/pipgcn), [paper](https://papers.nips.cc/paper/2017/hash/f507783927f2ec2737ba40afbd17efb5-Abstract.html)), FCN and LR.
 
 #### Machine Learning
-A joint Random Forest Regression model has been implemented to evaluate feature importance of the convolutional neural network derived (i.e., estimated, mutation-mediated) antibody-escape phenotype for each of the 10 Abs in predicting binding affinity towards the ACE2 receptor. Optimized parameters are achieved after grid search. 
+A joint Random Forest Regression model has been implemented to evaluate the feature importance of the convolutional neural network derived (i.e., estimated, mutation-mediated) antibody-escape phenotype for each of the 10 Abs in predicting binding affinity towards the ACE2 receptor. Optimized parameters are achieved after grid search. 
 
 
 
