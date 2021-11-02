@@ -1,0 +1,7 @@
+Optimized Parameters:
+{'bootstrap': True,
+ 'max_depth': 30,
+ 'max_features': 'auto',
+ 'min_samples_leaf': 2,
+ 'min_samples_split': 3,
+ 'n_estimators': 1200}
