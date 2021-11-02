@@ -41,4 +41,8 @@ ggplot2=3.3.1
 pheatmap=1.0.12
 RColorBrewer=1.1-2
 igraph=1.1.2
+
+ggcorrplot=0.1.3
+cowplot=1.1.1
+tidyr=1.1.3
 ```
