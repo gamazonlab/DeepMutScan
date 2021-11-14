@@ -1,12 +1,12 @@
-## Supplementary Files and Resources
+## DeepMutScan
 
-In this repo, we provide source data, trained models, and NN-derived phenotype map as a supplement to the paper [Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.](https://www.biorxiv.org/content/10.1101/2021.01.28.428521v3): Bo Wang & Eric R. Gamazon*. 
+In this repo, we provide source data, trained models, and NN-derived mutationally-determined phenotype data as a supplement to the paper [Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.](https://www.biorxiv.org/content/10.1101/2021.01.28.428521v3): Bo Wang & Eric R. Gamazon*. 
 
 #### Neural Networks
 [Source datasets](https://github.com/gamazonlab/DeepMutScan/blob/main/Data/Source_Data/dataset_source.md) are curated and fed into a customized neural network engine with four architectures including: CNN-2D, GCN-AVE, MLP and LR.
 
 #### Machine Learning
-A joint Random Forest Regression model has been implemented to evaluate the feature importance of the convolutional neural network derived (i.e., estimated, mutation-mediated) antibody-escape phenotype for each of the 10 Abs in predicting binding affinity towards the ACE2 receptor. Optimized parameters are achieved after grid search. 
+A joint Random Forest Regression model has been implemented to evaluate the feature importance of the convolutional neural network derived (i.e., estimated, mutation-mediated) antibody-escape phenotype for each of the 10 antibodies in predicting binding affinity towards the ACE2 receptor. Optimized parameters are achieved after grid search. 
 
 
 #### Dependencies
