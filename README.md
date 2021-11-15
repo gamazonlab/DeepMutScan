@@ -1,4 +1,4 @@
-## DeepMutScan [![License: MIT](https://github.com/gamazonlab/DeepMutScan/blob/main/LICENSE)
+## DeepMutScan [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gamazonlab/DeepMutScan/blob/main/LICENSE)
 
 In this repo, we provide source data, trained models, and NN-derived mutationally-determined phenotype data as a supplement to the paper  
 
