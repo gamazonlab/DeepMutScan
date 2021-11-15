@@ -6,8 +6,8 @@ In this repo, we provide source data, trained models, and NN-derived mutationall
 Bo Wang & Eric R. Gamazon*.  
 
 
-Correspondence to:  
-*ericgamazon@gmail.com
+* Correspondence to:  
+ericgamazon@gmail.com
 
 #### Neural Networks
 [Source datasets](https://github.com/gamazonlab/DeepMutScan/blob/main/Data/Source_Data/dataset_source.md) are curated and fed into a customized neural network engine with four architectures including: CNN-2D, GCN-AVE, MLP and LR.
