@@ -6,7 +6,7 @@ In this repo, we provide source data, trained models, and NN-derived mutationall
 Bo Wang & Eric R. Gamazon*.  
 
 
-* Correspondence to:  
+*Correspondence to:  
 ericgamazon@gmail.com
 
 #### Neural Networks
