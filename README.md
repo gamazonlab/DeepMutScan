@@ -32,7 +32,7 @@ A joint Random Forest Regression model has been implemented to evaluate the feat
 
 Available under the MIT License:   
 
-Neural Network engine [nn4dms](https://github.com/gitter-lab/nn4dms), [paper](https://www.biorxiv.org/content/10.1101/2020.10.25.353946v2) 
+Neural Network engine [nn4dms](https://github.com/gitter-lab/nn4dms), [paper](https://www.biorxiv.org/content/10.1101/2020.10.25.353946v3) 
 Copyright © 2020 Sam Gelman, Philip Romero, Anthony Gitter      
 
 GCN-AVE [pipgcn](https://github.com/fouticus/pipgcn), [paper](https://papers.nips.cc/paper/2017/hash/f507783927f2ec2737ba40afbd17efb5-Abstract.html)
