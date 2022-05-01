@@ -1,15 +1,8 @@
-<<<<<<< HEAD:Codes/Figure_2&3.R
 #---
 #title: "Figure_2&3"
 #code author: "Bo Wang, Ph.D."
 #---
-=======
----
-title: "Figure_2&3"
-code author: "Bo Wang, Ph.D."
-date: "04/30/2021"
----
->>>>>>> 25a3e04182bfb24907a92e2df98346ff58662a7f:Code/Figure_2&3.R
+
 
 ## Figure_2&3 
 library(tidyr)
