@@ -2,7 +2,7 @@
 
 In this repo, we provide source data, trained models, and NN-derived mutationally-determined phenotype data as a supplement to the paper  
 
-[Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.](https://www.biorxiv.org/content/10.1101/2021.01.28.428521v3):  
+[Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.](http://www.doi.org/10.1016/j.isci.2022.104500):  
 
 Bo Wang & Eric R. Gamazon*.  
 
